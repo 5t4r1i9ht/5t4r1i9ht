@@ -1,6 +1,6 @@
 # 5t4r1i9ht
 
-- 🌱 I’m currently learning principles of compliers, database, data mining, machine learning, deep learning, natural language processing, Kotlin, blockchain and so on.
+- 🌱 I’m currently learning C, Go, Vue, system programming and so on.
 - 📫 How to reach me: admin@5t4r1i9ht.com
 
 ## My GitHub Stats
